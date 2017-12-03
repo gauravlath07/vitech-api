@@ -1,0 +1,7 @@
+falcon
+falcon-cors
+gunicorn
+textblob
+tweepy
+scikit-learn
+scipy
